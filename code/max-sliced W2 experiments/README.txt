@@ -1,0 +1,3 @@
+Accelerated Riemannian methods for max-sliced W2 computation are performed via code provided for "A Riemannian Block Coordinate Descent Method for Computing the Projection Robust Wasserstein Distance" at ICML 2021 by Huang et al. at https://github.com/mhhuang95/PRW_RBCD. This includes an implementation of existing methods described in "Projection Robust Wasserstein Distance and Riemannian Optimization" at NeurIPS 2020 by Lin et al.
+
+Distances are estimated and plots are produced via notebook in main directory.

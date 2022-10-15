@@ -1,0 +1,3 @@
+Iterative filtering is performed via code provided for "Being Robust (in High Dimensions) Can Be Practical" from ICML 2017 by Diakonikolas et al. at https://github.com/hoonose/robust-filter
+
+After filtering, distances are estimated and plots are produced via notebooks in main directory. Max-sliced W1 distances are computed using stochastic gradient ascent routine, as implemented for "Generalized Sliced Wasserstein Distances" from NeurIPS 2019 by Kolouri et al. at https://github.com/kimiandj/gsw
